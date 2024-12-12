@@ -3,4 +3,6 @@
 ## Gameplay Video
 
 
-<video src='https://github.com/Frank-C0/Unity-Example-Flock/raw/refs/heads/main/gameplay1.mp4' width=500/>
+
+https://github.com/user-attachments/assets/4cb426e5-3024-4cfc-8d96-84a6a041bf4d
+
